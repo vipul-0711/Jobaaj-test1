@@ -1,3 +1,4 @@
+
 | **KPI**                             | **Business Insight**                                              | **Possible Business Action**                                                    |
 | ----------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------- |
 | **Total Revenue**                   | Shows overall business performance and growth.                    | Increase revenue through promotions, cross-selling, and expansion.              |
@@ -18,3 +19,6 @@
 | **Most Preferred Shipping Service** | Indicates customer shipping preferences.                          | Improve and promote the most-used shipping option.                              |
 | **Customer Type (B2B vs B2C)**      | Helps understand the customer mix.                                | Design separate strategies for businesses and individual customers.             |
 | **Order Success Rate**              | Measures operational efficiency from order placement to delivery. | Improve fulfillment processes to maximize successful deliveries.                |
+
+![alt text](<img width="1536" height="1024" alt="sales dashboard" src="https://github.com/user-attachments/assets/816743ed-edf3-4b68-82ea-39d7cb1361aa" />
+)
