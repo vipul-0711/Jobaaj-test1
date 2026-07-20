@@ -20,5 +20,6 @@
 | **Customer Type (B2B vs B2C)**      | Helps understand the customer mix.                                | Design separate strategies for businesses and individual customers.             |
 | **Order Success Rate**              | Measures operational efficiency from order placement to delivery. | Improve fulfillment processes to maximize successful deliveries.                |
 
-![alt text](<img width="1536" height="1024" alt="sales dashboard" src="https://github.com/user-attachments/assets/816743ed-edf3-4b68-82ea-39d7cb1361aa" />
-)
+![image alt](https://github.com/vipul-0711/Jobaaj-test1/blob/c1dea576dafd9870ef8453e3bdc9df1c1bdd2620/sales%20dashboard.png)
+
+
